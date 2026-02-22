@@ -3,6 +3,8 @@
 A minimal Telegram bot that bridges Claude Code and shell commands, letting you run
 AI-assisted tasks and execute shell commands from your phone. This is an attempt at a (very) simplified version of openClaw.
 
+**Currently the bot is written to work with a claude subscription.**
+
 ## Features
 
 - Stream Claude Code responses with live updates and tool-call notifications
